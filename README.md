@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me : www.linkedin.com/in/varun-madineni-292b73324
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am exploring unique ways to integrate Mern Stack with smart data analysis, aiming for impactful applications.
+- ⚡ Fun fact: I am exploring unique ways to integrate Mern Stack and smart Data Analysis to Build Projects, aiming for impactful applications.
 
 <!---
 Varun-505/Varun-505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
