@@ -1,7 +1,7 @@
 Welcome to my GitHub profile!
 
 - 👋 Hi, I’m @Varun Madineni
-- 👀 I’m interested tech enthusiast. I have a keen interest in VLSI, Chip Designing, Data analytics, Embedded systems, and Machine Learning models. My skills and experiences span various projects and internships 
+- 👀 I’m interested tech enthusiast. I have a keen interest in Data analytics, Embedded systems, and Machine Learning models. My skills and experiences span various projects and internships 
       that showcase my commitment to innovation and technology.
 - Programming Languages: Python, Java, JavaScipt
 - Data Analytics: MS Excel, SQL, PowerBI
