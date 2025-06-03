@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Varun madineni] — Python & MERN Stack Developer
+# 👋 Hey, I'm Varun madineni — Python & MERN Stack Developer
 
 Welcome to my GitHub! I'm a passionate full-stack developer and tech enthusiast focused on building smart, scalable, and impactful applications.
 
@@ -40,8 +40,7 @@ I’m actively looking to:
 
 ## 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/varunmadineni)
-- Email: youremail@example.com
+- LinkedIn: [linkedin.com/in/varunmadineni](https://linkedin.com/in/yourname)
 
 ---
 
