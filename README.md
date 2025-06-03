@@ -40,7 +40,7 @@ I’m actively looking to:
 
 ## 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/varunmadineni](https://linkedin.com/in/yourname)
+- LinkedIn: [linkedin.com/in/varunmadineni](https://linkedin.com/in/varunmadineni)
 
 ---
 
