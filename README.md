@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer and tech enthusiast 
 ## 💻 Tech Stack & Skills
 
 **Languages:**  
-Python | JavaScript | Java | SQL
+Python | JavaScript | SQL
 
 **Web Development:**  
 Flask | Django | MongoDB | Express.js | React | Node.js (MERN Stack)
@@ -16,7 +16,7 @@ Flask | Django | MongoDB | Express.js | React | Node.js (MERN Stack)
 Git | GitHub | VS Code | Postman | Docker (basics) | Heroku
 
 **Data & Analytics:**  
-MS Excel | SQL | Power BI | Pandas | Jupyter Notebooks
+SQL | Power BI | Pandas | Jupyter Notebooks
 
 ---
 
@@ -40,7 +40,7 @@ I’m actively looking to:
 
 ## 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/varunmadineni](https://www.linkedin.com/in/varun-madineni-292b73324)
+- LinkedIn: [linkedin.com/in/varunmadineni](https://www.linkedin.com/in/varun-madineni)
 
 ---
 
