@@ -1,49 +1,54 @@
-# 👋 Hey, I'm Varun madineni — Python & MERN Stack Developer
+# 👋 Hey there, I am Varun — Full Stack Developer (Python & MERN)
 
-Welcome to my GitHub! I'm a passionate full-stack developer and tech enthusiast focused on building smart, scalable, and impactful applications.
-
----
-
-## 💻 Tech Stack & Skills
-
-**Languages:**  
-Python | JavaScript | SQL
-
-**Web Development:**  
-Flask | Django | MongoDB | Express.js | React | Node.js (MERN Stack)
-
-**Tools & Platforms:**  
-Git | GitHub | VS Code | Postman | Docker (basics) | Heroku
-
-**Data & Analytics:**  
-SQL | Power BI | Pandas | Jupyter Notebooks
+Welcome to my GitHub!  
+I’m a **full-stack developer** and **tech enthusiast** who loves building scalable, data-driven, and user-focused applications.
 
 ---
 
-## 🚀 Current Focus
+## 💻 Tech Stack
 
-- Building real-world **Full Stack Projects** using Python, Flask, and MERN
-- Learning best practices for **clean code**, API design, and deployment
-- Exploring how to combine **Data Analytics** + **Web Apps** for smarter solutions
+**Languages**  
+🧠 Python · 💻 JavaScript · 🧩 SQL  
 
----
+**Web Development**  
+🚀 Flask · Django · React · Node.js · Express.js · MongoDB (MERN Stack)  
 
-## 🤝 Open to Collaborate
+**Data & Analytics**  
+📊 Pandas · NumPy · Power BI · Jupyter Notebooks · SQL  
 
-I’m actively looking to:
-
-- Team up on open-source or real-world projects
-- Freelance work in Python / MERN stack
-- Contribute to meaningful tech that solves real problems
+**Tools & Platforms**  
+⚙️ Git · GitHub · VS Code · Postman · Docker (basics) · Heroku · Render  
 
 ---
 
-## 📫 Connect with Me
+## 🚀 What I’m Working On
 
-- LinkedIn: [linkedin.com/in/varunmadineni](https://www.linkedin.com/in/varun-madineni)
+- Building **real-world full-stack projects** using Python (Flask) and MERN  
+- Learning best practices for **API design**, **database optimization**, and **deployment pipelines**  
+- Combining **data analytics** and **web apps** to create smarter, more impactful products  
+
+---
+
+## 🤝 Let’s Collaborate
+
+I’m open to:  
+- 💼 Freelance work or part-time roles in Python / MERN stack  
+- 🤝 Collaborating on open-source or real-world projects  
+- 💡 Building tools that turn **data + design** into something meaningful  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn — Varun Madineni](https://www.linkedin.com/in/varun-madineni)  
+- 🧑‍💻 [GitHub — Varun-505](https://github.com/Varun-505)  
 
 ---
 
 ## ⚡ Fun Fact
 
-I’m combining **MERN stack skills** with smart data insights to build tools that are both intelligent and user-friendly.
+I’m on a mission to blend **MERN stack engineering** with **Python-powered analytics** — crafting apps that are not just functional, but intelligent.
+
+---
+
+⭐️ *“Code with logic. Build with purpose.”*  
