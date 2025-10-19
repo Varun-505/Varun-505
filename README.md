@@ -47,8 +47,5 @@ I’m open to:
 
 ## ⚡ Fun Fact
 
-I’m on a mission to blend **MERN stack engineering** with **Python-powered analytics** — crafting apps that are not just functional, but intelligent.
+I am on a mission to blend **MERN stack engineering** with **Python-powered analytics** — crafting apps that are not just functional, but intelligent.
 
----
-
-⭐️ *“Code with logic. Build with purpose.”*  
