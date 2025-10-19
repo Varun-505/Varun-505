@@ -1,7 +1,7 @@
 # 👋 Hey there, I am Varun — Full Stack Developer (Python & MERN)
 
 Welcome to my GitHub!  
-I’m a **full-stack developer** and **tech enthusiast** who loves building scalable, data-driven, and user-focused applications.
+I am a **full-stack developer** and **tech enthusiast** who loves building scalable, data-driven, and user-focused applications.
 
 ---
 
