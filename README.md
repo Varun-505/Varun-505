@@ -17,7 +17,7 @@ I am a **full-stack developer** and **tech enthusiast** who loves building scala
 📊 Pandas · NumPy · Power BI · Jupyter Notebooks · SQL  
 
 **Tools & Platforms**  
-⚙️ Git · GitHub · VS Code · Postman · Docker (basics) · Heroku · Render  
+⚙️ Git · GitHub · VS Code · Postman · Docker · Heroku · Render  
 
 ---
 
