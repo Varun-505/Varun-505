@@ -110,6 +110,10 @@
 
 ###
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Varun-505/Varun-505/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Varun-505/Varun-505/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
 
 <div align="center">
