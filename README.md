@@ -111,8 +111,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Varun-505/Varun-505/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/Varun-505/Varun-505/languages-output/languages.svg" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varun-505&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-505&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
 
