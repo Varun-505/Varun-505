@@ -74,6 +74,3 @@ AWS • Google Cloud • Docker • Kubernetes • Git • GitHub • Linux • 
 
 ---
 
-<p align="center">
-Minimal • Clean • Developer-focused
-</p>
