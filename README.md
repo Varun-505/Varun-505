@@ -103,8 +103,8 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/varun-madineni" target="[_blank](https://www.linkedin.com/in/varun-madineni/)">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/varun-madineni/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
   </a>
 </div>
 
