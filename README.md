@@ -133,6 +133,3 @@ Currently focused on developing real-world full-stack applications using Python,
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Varun-505.Varun-505" alt="Visitor Badge"/>
 </p>
 
-<p align="center">
-  <i>"Code. Learn. Build. Improve. Repeat."</i>
-</p>
