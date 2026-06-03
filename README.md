@@ -58,14 +58,6 @@ Building scalable web apps, APIs, and data-driven products.
 AWS • Google Cloud • Docker • Kubernetes • Git • GitHub • Linux • VS Code • Selenium
 
 ---
-
-- [LinkedIn](https://www.linkedin.com/in/varun-madineni)
-
----
-
 ## 🤝 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/varun-madineni
-
+- [LinkedIn](https://www.linkedin.com/in/varun-madineni)
 ---
-
