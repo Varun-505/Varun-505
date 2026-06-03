@@ -59,6 +59,7 @@ AWS • Google Cloud • Docker • Kubernetes • Git • GitHub • Linux • 
 
 ---
 
+- [LinkedIn](https://www.linkedin.com/in/varun-madineni)
 
 ---
 
