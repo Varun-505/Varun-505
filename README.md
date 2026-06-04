@@ -1,28 +1,31 @@
 <h1 align="center">Varun Madineni</h1>
 
 <p align="center">
-Full Stack Developer (Python • MERN)
+Linux & Systems Software Engineer (Python • Bash • Backend Automation)
 </p>
 
 <p align="center">
-Building scalable web apps, APIs, and data-driven products.
+Building Linux tools, backend systems, and automation software focused on real-world system behavior.
 </p>
 
 ---
 
 ## 👋 About Me
 
-- Full Stack Developer focused on Python and JavaScript ecosystems  
-- Interested in scalable backend systems, APIs, and clean UI design  
-- Exploring data analytics + web integration for smarter applications  
+- Linux and systems-focused software engineer
+- Build CLI tools, automation scripts, and backend services
+- Interested in system observability, performance, and infrastructure tooling
+- Focused on writing practical software that interacts with real operating systems
 
 ---
 
 ## 🚀 What I'm Working On
 
-- Building real-world full-stack applications  
-- Improving API design, database optimization, and deployment pipelines  
-- Combining data analytics with web apps for intelligent products  
+- Linux system monitoring and diagnostic tools
+- Backend APIs and automation systems
+- CLI-based developer tools
+- Server setup and DevOps-style automation
+- Improving system visibility and debugging workflows
 
 ---
 
@@ -30,34 +33,53 @@ Building scalable web apps, APIs, and data-driven products.
 
 ### Languages
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 </p>
 
-### Web Development
+### Systems & Backend
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </p>
 
-### Data & Analytics
+### Data & Tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
 </p>
 
-### Tools & Platforms
-AWS • Google Cloud • Docker • Kubernetes • Git • GitHub • Linux • VS Code • Selenium
+---
+
+## ⚙️ Focus Areas
+
+- Linux system programming & tooling
+- Backend engineering (Python APIs)
+- DevOps automation & scripting
+- System observability & monitoring tools
+- CLI application development
 
 ---
-## 🤝 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/varun-madineni)
+
+## 📌 Featured Projects
+
+- **SysProbe v2** — Linux system monitoring tool (CPU, memory, processes)
+- **Ubuntu Server Toolkit** — Automated server setup and provisioning script
+- **SysProbe CLI** — Terminal-based system inspection utility
+
 ---
+
+## 🎯 Goal
+
+To build reliable Linux systems software and backend tools that improve system observability, automation, and developer productivity.
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/varun-madineni
+- GitHub: https://github.com/Varun-505
