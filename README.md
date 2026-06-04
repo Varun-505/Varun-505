@@ -1,85 +1,104 @@
 <h1 align="center">Varun Madineni</h1>
 
 <p align="center">
-Linux & Systems Software Engineer (Python • Bash • Backend Automation)
+<b>Linux & Systems Software Engineer (Python • Bash • Backend Automation)</b>
 </p>
 
 <p align="center">
-Building Linux tools, backend systems, and automation software focused on real-world system behavior.
+Building Linux tools, backend systems, and automation software for real-world system debugging and infrastructure workflows.
+</p>
+
+<p align="center">
+<a href="https://github.com/Varun-505">GitHub</a> •
+<a href="https://www.linkedin.com/in/varun-madineni">LinkedIn</a>
 </p>
 
 ---
 
-## 👋 About Me
+## About Me
 
-- Linux and systems-focused software engineer
-- Build CLI tools, automation scripts, and backend services
-- Interested in system observability, performance, and infrastructure tooling
-- Focused on writing practical software that interacts with real operating systems
+I am a software engineer focused on Linux systems, backend tooling, and automation.
 
----
+I build tools that inspect system behavior, analyze logs, automate debugging, and improve developer and DevOps workflows.
 
-## 🚀 What I'm Working On
-
-- Linux system monitoring and diagnostic tools
+- Linux system tooling and diagnostics
 - Backend APIs and automation systems
-- CLI-based developer tools
-- Server setup and DevOps-style automation
-- Improving system visibility and debugging workflows
+- CLI-based engineering utilities
+- Observability and debugging tools for real systems
+- Focused on production-style engineering practices
 
 ---
 
-## 🧠 Tech Stack
+## Core Interests
 
-### Languages
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-</p>
-
-### Systems & Backend
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-</p>
-
-### Data & Tools
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
-</p>
+- Linux systems programming
+- System observability and debugging
+- Backend engineering (Python-based services)
+- DevOps automation and infrastructure tooling
+- CLI and developer productivity tools
 
 ---
 
-## ⚙️ Focus Areas
+## Featured Projects
 
-- Linux system programming & tooling
-- Backend engineering (Python APIs)
-- DevOps automation & scripting
-- System observability & monitoring tools
-- CLI application development
+### SysProbe — Linux System Monitoring Tool
+A CLI-based system inspection tool for real-time monitoring of CPU, memory, disk usage, and running processes.
 
----
-
-## 📌 Featured Projects
-
-- **SysProbe v2** — Linux system monitoring tool (CPU, memory, processes)
-- **Ubuntu Server Toolkit** — Automated server setup and provisioning script
-- **SysProbe CLI** — Terminal-based system inspection utility
+**Focus:** System observability and Linux diagnostics  
+**Stack:** Python, psutil, Linux CLI
 
 ---
 
-## 🎯 Goal
+### Ubuntu Server Toolkit — Automated Server Setup Tool
+A shell-based automation toolkit for provisioning and configuring Ubuntu systems.
 
-To build reliable Linux systems software and backend tools that improve system observability, automation, and developer productivity.
+**Focus:** Server automation and Linux setup workflows  
+**Stack:** Bash, Ubuntu Linux
 
 ---
 
-## 🤝 Connect With Me
+### SysProbe v2 — Advanced System Diagnostics Engine
+Extended version of system monitoring with structured outputs and modular architecture for system analysis.
 
-- LinkedIn: https://www.linkedin.com/in/varun-madineni
-- GitHub: https://github.com/Varun-505
+**Focus:** Modular system tooling and diagnostics design  
+**Stack:** Python, Linux system APIs
+
+---
+
+## Technical Skills
+
+**Languages**
+- Python, Bash, JavaScript, SQL
+
+**Systems**
+- Linux (Ubuntu), CLI tools, process & resource management
+
+**Backend**
+- REST APIs, FastAPI basics, system design fundamentals
+
+**Tools**
+- Git, GitHub, Docker (basic), VS Code
+
+---
+
+## Engineering Focus
+
+- Building Linux-based diagnostic tools
+- Writing backend systems that integrate with OS-level data
+- Automating repetitive system administration tasks
+- Improving system observability and debugging workflows
+
+---
+
+## GitHub Activity
+
+Consistent project development across:
+- Linux system tools
+- Backend utilities
+- Automation scripts
+
+---
+
+## Goal
+
+To grow as a systems engineer working on Linux tooling, backend infrastructure, and open-source system software.
